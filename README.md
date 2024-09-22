@@ -1,1 +1,1 @@
-An easy-to-use RPC framework
+An easy-to-use C++ RPC framework
